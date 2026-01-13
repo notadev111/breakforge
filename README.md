@@ -1,10 +1,10 @@
 # BreakForge - ASCII Drum Tracker
 
-A modern web-based drum tracker inspired by classic trackers, built with React, TypeScript, and Web Audio API. Features ASCII waveform display, sample-accurate scheduling, and granular timestretch.
+A modern web based drum tracker inspired by classic amiga trackers, built with React, TypeScript, and Web Audio API. Features ASCII waveform display, sample accurate scheduling, and granular timestretch.
 
 ## Features
 
-- **Text-first UI**: Keyboard-only navigation with ASCII waveform display
+- **Terminal UI**: Keyboard only navigation with ASCII waveform display
 - **Sample loading & auto-slicing**: Transient detection with manual adjustment
 - **Pattern sequencing**: 8 tracks × 16 rows with extensive per-step parameters
 - **Sample-accurate scheduling**: AudioWorklet-based engine with lookahead
